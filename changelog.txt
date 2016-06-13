@@ -1,28 +1,6 @@
  ---------------------------------------------
-| AEON MADNOX v.1.0 HELIX / ISENGARD / Jarvis (PLUS LIVE TV MOD) |
+| AEON MADNOX v0.9.1 RC2 | Jarvis 16.1
  ---------------------------------------------
-
-June 1st, 2015
-
-- Forked from ShedNox, new version due to Shednox no longer being maintained.
-- Works on both Helix and Isengard.
-
-Added Views:
-
-Benner Info
-FanartList
-KodiFlix
-Rightlist
-Sets
-Wall Large
-
-Main Improvements:
-
-Added Manfeed's latest Music Vizulization mod.
-Added Fake Disc Artwork to Movies and Music, Movies has additional options of either using Artwork or a Fake Disc with handwriting.
-Updated several existing views to work better.
-and more...
-
 CHANGELOG 30/05/16 - (Revision 0.9.1 RC2)
 
 Re-write of KodiFlix view to separate control options for Movies & TVshows
